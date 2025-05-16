@@ -1,0 +1,18 @@
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+/vendor/
+
+# Local output file
+current_song.txt
+
+# OS specific files
+.DS_Store
+Thumbs.db 
