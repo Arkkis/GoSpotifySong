@@ -56,7 +56,7 @@ The application:
 
 ### Prerequisites
 
-- Go 1.18 or higher
+- Go 1.24.3 or higher
 - Git
 
 ### Build Instructions
